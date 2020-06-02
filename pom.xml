@@ -21,7 +21,7 @@
 <sonar.projectKey> shopping</sonar.projectKey>
 <sonar.java.binaries> target/classes</sonar.java.binaries>
 <sonar.projectVesrion>2</sonar.projectVesrion>
-<sonar.sources>src</sonar.sources>
+
 <sonar.scm.exclusions.diabaled>true</sonar.scm.exclusions.diabaled>
 
 
